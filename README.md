@@ -15,9 +15,9 @@ TypeScript 真是一个很出乎意料又强大的让人爱不释手的工具，
 
 ## 作者介绍
 
-[icepy](https://github.com/icepy)，`写写代码，做做烹饪，炒炒数字币，狂野摩托车骑行爱好者`，前远光，携程，阿里巴巴程序员，经历了从网页开发到前端开发再到大前端的技术变革，在 Hybrid，工程化，Weex，Node.js，Golang 等方面有着丰富的实战经验，喜爱折腾各种开发工具来提高开发效率，期望做一个永远都写代码的程序员；
+[icepy](https://github.com/icepy)，可访问：[https://icepy.me/](https://icepy.me/) 阅读。
 
-[知乎专栏：《我们可以学习更多》](https://zhuanlan.zhihu.com/fed-talk) ，混乱的头脑风暴中....探索前端技术的奥秘；
+[知乎专栏：《我们可以学习更多》](https://zhuanlan.zhihu.com/fed-talk) ，程序员的前端专栏；
 
 ## 你会学到什么
 
