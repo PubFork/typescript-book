@@ -7,10 +7,7 @@
 
 TypeScript 真是一个很出乎意料又强大的让人爱不释手的工具，而且易于掌握。看起来 TypeScript 是比 JavaScript 要更为复杂，不过当我们从这样的复杂中找到可循的范例时，我们将从中获益，这本小书就是为了让你从中找到解答，并且更快的适应 TypeScript 带来的各种概念和运用。
 
-- gitbook：https://welearnmore.gitbook.io/typescript-book/
-- github：https://github.com/welearnmore/typescript-book
-- 本书配套的demos：https://github.com/welearnmore/typescript-book-demos
-- 本书配套的demos：https://github.com/welearnmore/WLM-TypeScript-React-Component-Mode
+- 本书配套的Demos：https://github.com/icepy/typescript-book-demos
 
 
 ## 作者介绍
