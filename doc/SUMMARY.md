@@ -27,5 +27,3 @@
   * [优雅的使用 Redux](./react/used_redux.md)
   * [material-ui 高阶使用](./react/material_ui.md)
   * [immutable](./react/immutable.md)
-* React Native 入门基础
-  * await ...
